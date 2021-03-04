@@ -2,7 +2,7 @@
 import java.util.Random;
 
 
-public class Heap {
+public class Heap1 {
     //Sorting code
     static void sort(int x[],int len) 
     { 
